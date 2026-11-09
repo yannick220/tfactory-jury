@@ -1,0 +1,1 @@
+V20 — Administration des jurés : suppression individuelle avec confirmation et effacement des saisies du juré. Réinitialisation complète : suppression des jurés, de leurs codes et de leurs saisies, et rafraîchissement immédiat de la liste. Exécuter SUPABASE-V20-GESTION-JURES.sql avant déploiement GitHub. Ne pas toucher au dépôt V17.
