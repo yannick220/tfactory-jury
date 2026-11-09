@@ -1,0 +1,1 @@
+V22 : correction du gel de l’écran Admin après une erreur de sauvegarde Supabase ; file des sauvegardes réutilisable ; confirmations et retours d’erreur ; gestion des équipes avec sauvegarde attendue. Aucun SQL supplémentaire. Installer control.html uniquement dans tfactory-jury.
