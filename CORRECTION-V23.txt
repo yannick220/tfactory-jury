@@ -1,0 +1,1 @@
+V23 — Version Jury uniquement. Live : grille 2 × 2 pour quatre équipes, 3 × 2 pour six, adaptative selon le nombre. Sous-titre Live : nombre d’équipes issu de Supabase. Mentions statiques de six équipes et résultats historiques intégrés supprimées. Aucun SQL requis.
