@@ -1,0 +1,1 @@
+V25 — Marges intérieures horizontales augmentées uniquement dans les cartouches équipes du classement Live. Aucune modification des calculs, données, SQL ou des autres écrans.
