@@ -1,0 +1,1 @@
+V24 : clic sur le nom du juré dans Admin > Jurés & validations pour renouveler son code sans supprimer ses évaluations. Exécuter SUPABASE-V24-RENOUVELLEMENT-CODES.sql avant de déployer control.html.
