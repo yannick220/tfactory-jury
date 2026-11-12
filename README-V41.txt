@@ -1,0 +1,1 @@
+T·Factory V41 — Valorisation : coefficient effectif 5, résultat final multiplié par 10. Même formule dans le Live et l’administration. Indicateur de synchronisation masqué sur le Live sans supprimer la synchronisation. Aucun changement Supabase ni des notes/financements.
