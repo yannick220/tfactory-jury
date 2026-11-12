@@ -1,0 +1,1 @@
+T·Factory V38 — Intitulés harmonisés dans le Live et ses filtres : « Montant alloué » et « Montant cumulé ». Remplace « Financement attribué » et « Financement cumulé ». Aucun changement des calculs, des données ou de Supabase. Cache PWA mis à jour.
