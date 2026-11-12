@@ -1,0 +1,1 @@
+T·Factory V39 — ajustement purement CSS des cartouches Live : titres plus gras, notes légèrement réduites, marges verticales équilibrées, montants aérés. Aucun calcul, aucune donnée ni modification Supabase.
