@@ -1,0 +1,1 @@
+T·Factory V40 — rééquilibrage des marges des cartouches Live. Notes décollées des séparateurs, montants rapprochés de leur séparateur inférieur, valorisation rééquilibrée, montant cumulé blanc. Aucune modification des calculs, données ou accès Supabase.
