@@ -1,0 +1,1 @@
+V30 : suppression de l’arrondi intermédiaire de la note générale avant le barème de financement. Seul le montant final est arrondi à l’euro près. Les notes affichées restent limitées à deux décimales.
