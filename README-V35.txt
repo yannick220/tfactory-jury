@@ -1,0 +1,1 @@
+T·Factory V35 — Ajustements du Live uniquement : marges verticales des cartouches, financement attribué et cumulé sur une ligne en deux colonnes, libellés NOTE DE FOND, NOTE DE FORME et NOTE COMBINATOIRE. La note combinatoire affiche le résultat de combin(t,p) et non la note générale du pitch. Aucun changement Supabase ni SQL.
